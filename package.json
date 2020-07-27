@@ -1,0 +1,27 @@
+{
+  "name": "github-oauth",
+  "version": "1.0.0",
+  "description": "github oauth demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/front-end-inn/node-github-oauth.git"
+  },
+  "keywords": [
+    "github_oauth"
+  ],
+  "author": "iy88",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/front-end-inn/node-github-oauth/issues"
+  },
+  "homepage": "https://github.com/front-end-inn/node-github-oauth#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1"
+  }
+}
