@@ -4,7 +4,7 @@
   "description": "github oauth demo",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
